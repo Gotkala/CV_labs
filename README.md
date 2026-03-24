@@ -14,3 +14,6 @@
  
 # Лабораторная работа №2
 [Файл notebook лаб№2](./notebook/LAB№2_1.0.ipynb)
+
+# Лабораторная работа №3
+[Файл notebook лаб№2](./notebook/LAB№3.ipynb)
